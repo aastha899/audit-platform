@@ -1,5 +1,4 @@
 # Audit Platform Backend (FastAPI)
-
 A backend service built with FastAPI to manage audit records, compliance checks, and internal reviews.  
 This project demonstrates clean backend architecture, API design, and database integration.
 
